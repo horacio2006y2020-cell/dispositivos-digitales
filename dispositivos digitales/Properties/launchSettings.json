@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "dispositivos digitales": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
